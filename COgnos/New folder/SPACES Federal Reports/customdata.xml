@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:32</property><property name="BMTFW_Layout"><![CDATA[string:[Physical Layer].[INELIGIBILITY_RECUR_FCT]
+	dx=225,208
+	expanded=t
+	parent=Physical Layer
+	x=1575,1047
+[Physical Layer].[INTF_DISPOSITION_FCT]
+	dx=205,208
+	expanded=t
+	parent=Physical Layer
+	x=1842,3204
+[Physical Layer].[INVESTIGATION_STATUS_DIM]
+	dx=242,82
+	expanded=t
+	parent=Physical Layer
+	x=931,3110
+[Physical Layer].[INVESTIGATION_TYPE_DIM]
+	dx=225,82
+	expanded=t
+	parent=Physical Layer
+	x=1084,3282
+[Physical Layer].[ISSUANCE_FCT]
+	dx=227,208
+	expanded=t
+	parent=Physical Layer
+	x=2225,3135
+[Physical Layer].[ISSUANCE_METHOD_DIM]
+	dx=214,82
+	expanded=t
+	parent=Physical Layer
+	x=3028,4092
+[Physical Layer].[ISSUANCE_STATUS_DIM]
+	dx=209,82
+	expanded=t
+	parent=Physical Layer
+	x=3182,3942
+[Physical Layer].[LICENSE_CATEGORY_DIM]
+	dx=220,82
+	expanded=t
+	parent=Physical Layer
+	x=2429,4628
+[Physical Layer].[LICENSE_TYPE_DIM]
+	dx=182,82
+	expanded=t
+	parent=Physical Layer
+	x=2839,4500
+[Physical Layer].[DENIAL_REASON_CONCAT]
+	dx=225,82
+	expanded=t
+	parent=Physical Layer
+	x=2313,1120
+[Physical Layer].[DENIAL_REASON_FCT]
+	dx=196,190
+	expanded=t
+	parent=Physical Layer
+	x=3394,1671
+[Physical Layer].[DISABILITY_TYPE_DIM]
+	dx=197,82
+	expanded=t
+	parent=Physical Layer
+	x=929,301
+[Physical Layer].[DISCON_NOTICE_DIM]
+	dx=191,82
+	expanded=t
+	parent=Physical Layer
+	x=2756,3016
+[Physical Layer].[DLY_OPERATIONAL_AGG]
+	dx=216,154
+	expanded=t
+	parent=Physical Layer
+	x=4160,117
+[Physical Layer].[DLY_OPERATIONAL_REPORT]
+	dx=240,190
+	expanded=t
+	parent=Physical Layer
+	x=10,4689
+[Physical Layer].[DLY_OPERATIONAL_STATIC]
+	dx=233,154
+	expanded=t
+	parent=Physical Layer
+	x=4282,117
+[Physical Layer].[DUAL_PGM_DIM]
+	dx=158,118
+	expanded=t
+	parent=Physical Layer
+	x=593,2272
+[Physical Layer].[ED_ELIG_LIHEAP_BUDGET_FCT]
+	dx=255,208
+	expanded=t
+	parent=Physical Layer
+	x=1241,680
+[Physical Layer].[EDFPLLIMITS_DIM]
+	dx=170,154
+	expanded=t
+	parent=Physical Layer
+	x=10,4785
+[Physical Layer].[ELIG_BUDGET_FCT]
+	dx=186,208
+	expanded=t
+	parent=Physical Layer
+	x=1101,742
+[Physical Layer].[PGM_DIM]
+	dx=119,208
+	expanded=t
+	parent=Physical Layer
+	x=1093,1363
+[Physical Layer].[PGM_PRECEDENCE_DIM]
+	dx=210,82
+	expanded=t
+	parent=Physical Layer
+	x=740,4689
+[Physical Layer].[PI_Person_DIM]
+	dx=150,208
+	expanded=t
+	parent=Physical Layer
+	x=2070,578
+[Physical Layer].[PRIMARY_HEAT_DIM]
+	dx=187,82
+	expanded=t
+	parent=Physical Layer
+	x=1257,555
+[Physical Layer].[PROSOUTCOME_DIM]
+	dx=187,82
+	expanded=t
+	parent=Physical Layer
+	x=1312,3311
+[Physical Layer].[PROVIDER_CHILD_ASSOC_DIM]
+	dx=249,208
+	expanded=t
+	parent=Physical Layer
+	x=2621,4641
+[Physical Layer].[PROVIDER_DIM]
+	dx=168,208
+	expanded=t
+	parent=Physical Layer
+	x=2577,4338
+[Physical Layer].[QA_ERROR_SUB_TYPE_DIM]
+	dx=231,100
+	expanded=t
+	parent=Physical Layer
+	x=1809,436
+[Physical Layer].[QA_ERROR_TYPE_DIM]
+	dx=198,82
+	expanded=t
+	parent=Physical Layer
+	x=1607,446
+[Physical Layer].[QA_REVIEW_FCT]
+	dx=205,208
+	expanded=t
+	parent=Physical Layer
+	x=1727,745
+[Physical Layer].[QA_SAMPLE_TYPE_DIM]
+	dx=205,118
+	expanded=t
+	parent=Physical Layer
+	x=1458,566
+[Physical Layer].[RACE]
+	dx=98,64
+	expanded=t
+	parent=Physical Layer
+	x=2167,211
+[Physical Layer].[RACE_CATEGORY]
+	dx=172,82
+	expanded=t
+	parent=Physical Layer
+	x=2032,216
+[Physical Layer].[RECOVERY_METHOD_DIM]
+	dx=219,82
+	expanded=t
+	parent=Physical Layer
+	x=3616,629
+[Physical Layer].[REVIEW_SNAPSHOT_FCT]
+	dx=215,208
+	expanded=t
+	parent=Physical Layer
+	x=3190,1830
+[Physical Layer].[RP_BUCKET]
+	dx=135,64
+	expanded=t
+	parent=Physical Layer
+	x=348,4833
+[Physical Layer].[RP_CATALOG]
+	dx=159,190
+	expanded=t
+	parent=Physical Layer
+	x=10,4833
+[Physical Layer].[RP_DATA_REFRESH_HIST]
+	dx=219,154
+	expanded=t
+	parent=Physical Layer
+	x=270,4689
+[Physical Layer].[RP_PARAMETER]
+	dx=162,190
+	expanded=t
+	parent=Physical Layer
+	x=386,4785
+[Physical Layer].[RP_REFRESH_DT]
+	dx=166,118
+	expanded=t
+	parent=Physical Layer
+	x=200,4785
+[Physical Layer].[RP_REFRESH_DT_HIST]
+	dx=201,172
+	expanded=t
+	parent=Physical Layer
+	x=10,4737
+[Physical Layer].[RP_STATIC]
+	dx=128,64
+	expanded=t
+	parent=Physical Layer
+	x=503,4833
+[Physical Layer].[SECONDARY_HEAT_DIM]
+	dx=209,82
+	expanded=t
+	parent=Physical Layer
+	x=3304,3772
+[Physical Layer].[SNAP_ET_SERVICES_FCT]
+	dx=217,208
+	expanded=t
+	parent=Physical Layer
+	x=2729,2757
+[Physical Layer].[SNAP_EXEMP_CD_DIM]
+	dx=198,82
+	expanded=t
+	parent=Physical Layer
+	x=2829,2823
+[Physical Layer].[SS_CATEGORY_DIM]
+	dx=183,82
+	expanded=t
+	parent=Physical Layer
+	x=2895,4199
+[Physical Layer].[SS_TYPE_DIM]
+	dx=145,82
+	expanded=t
+	parent=Physical Layer
+	x=3428,3584
+[Physical Layer].[TARGET_GROUP_DIM]
+	dx=192,82
+	expanded=t
+	parent=Physical Layer
+	x=1933,722
+[Physical Layer].[TRANSFER_DIM]
+	dx=167,82
+	expanded=t
+	parent=Physical Layer
+	x=3495,467
+[Physical Layer].[TYPE_OF_ASSISTANCE_DIM]
+	dx=232,64
+	expanded=t
+	parent=Physical Layer
+	x=629,365
+[Physical Layer].[UNIT_OF_MEASURE_DIM]
+	dx=211,82
+	expanded=t
+	parent=Physical Layer
+	x=509,4689
+[Physical Layer].[VENDOR_DIM]
+	dx=188,208
+	expanded=t
+	parent=Physical Layer
+	x=3450,3445
+[Physical Layer].[WC_ACTIVITY_CD_DIM]
+	dx=198,82
+	expanded=t
+	parent=Physical Layer
+	x=2992,2690
+[Physical Layer].[WC_REFERRAL_DIM]
+	dx=184,82
+	expanded=t
+	parent=Physical Layer
+	x=3065,2526
+[Physical Layer].[WC_WORK_FCT]
+	dx=227,208
+	expanded=t
+	parent=Physical Layer
+	x=2847,2542
+[Physical Layer].[WEATHERIZATION_FCT]
+	dx=203,208
+	expanded=t
+	parent=Physical Layer
+	x=2931,2303
+[Physical Layer].[ABAWDEXMPTRSN_DIM]
+	dx=205,82
+	expanded=t
+	parent=Physical Layer
+	x=548,2421
+[Physical Layer].[ACTION_DIM]
+	dx=136,82
+	expanded=t
+	parent=Physical Layer
+	x=991,2854
+[Physical Layer].[ADH_OUTCOME_DIM]
+	dx=186,82
+	expanded=t
+	parent=Physical Layer
+	x=3076,2109
+[Physical Layer].[ADJUSTMENT_REASON_DIM]
+	dx=233,82
+	expanded=t
+	parent=Physical Layer
+	x=3850,1410
+[Physical Layer].[ADMIN_DISQ_HEARINGS_FCT]
+	dx=240,208
+	expanded=t
+	parent=Physical Layer
+	x=2930,2109
+[Physical Layer].[AGE_GROUP]
+	dx=139,64
+	expanded=t
+	parent=Physical Layer
+	x=189,4833
+[Physical Layer].[APP_FCT_RECUR]
+	dx=177,208
+	expanded=t
+	parent=Physical Layer
+	x=2362,820
+[Physical Layer].[APP_MODE]
+	dx=129,64
+	expanded=t
+	parent=Physical Layer
+	x=2967,1911
+[Physical Layer].[APP_STATUS]
+	dx=141,64
+	expanded=t
+	parent=Physical Layer
+	x=3338,2155
+[Physical Layer].[APPROVAL_TIME_DIM]
+	dx=194,100
+	expanded=t
+	parent=Physical Layer
+	x=664,4737
+[Physical Layer].[BENEFIT_REASON_DIM]
+	dx=202,82
+	expanded=t
+	parent=Physical Layer
+	x=1542,4168
+[Physical Layer].[BENEFIT_TYPE_DIM]
+	dx=181,82
+	expanded=t
+	parent=Physical Layer
+	x=1729,4267
+[Physical Layer].[BI_BENEFIT_TYPE_DIM]
+	dx=200,82
+	expanded=t
+	parent=Physical Layer
+	x=1987,4355
+[Physical Layer].[Case_Fact (Review_Snapshot)]
+	dx=239,208
+	expanded=t
+	parent=Physical Layer
+	x=3425,1880
+[Physical Layer].[CASE_FCT]
+	dx=222,208
+	expanded=t
+	parent=Physical Layer
+	x=1843,2109
+[Physical Layer].[CASE_STATUS_DIM]
+	dx=180,82
+	expanded=t
+	parent=Physical Layer
+	x=792,1882
+[Physical Layer].[CASE_STATUS_DIM_INITIAL]
+	dx=230,82
+	expanded=t
+	parent=Physical Layer
+	x=2855,1700
+[Physical Layer].[WORKER_COUNTY_DIM]
+	dx=205,118
+	expanded=t
+	parent=Physical Layer
+	x=682,1637
+[Physical Layer].[WORKER_COUNTY_SNAPSHOT_DIM]
+	dx=280,100
+	expanded=t
+	parent=Physical Layer
+	x=726,1420
+[Physical Layer].[WORKER_DIM]
+	dx=171,172
+	expanded=t
+	parent=Physical Layer
+	x=904,1591
+[Physical Layer].[ADJUSTMENT_CLAIM_BAL_ACTIVITY_DIM]
+	dx=315,82
+	expanded=t
+	parent=Physical Layer
+	x=3110,256
+[Physical Layer].[RECOVERY_CLAIM_BAL_ACTIVITY_DIM]
+	dx=300,82
+	expanded=t
+	parent=Physical Layer
+	x=2818,161
+[Physical Layer].[PAYMENT_CLAIM_BAL_ACTIVITY_DIM]
+	dx=291,82
+	expanded=t
+	parent=Physical Layer
+	x=2527,144
+[Physical Layer].[GEO_DIM(PARIS)]
+	dx=163,190
+	expanded=t
+	parent=Physical Layer
+	x=1394,3576
+[Physical Layer].[PERSON_DIM(PARIS)]
+	dx=187,208
+	expanded=t
+	parent=Physical Layer
+	x=1499,3688
+[Physical Layer].[MONTH_DIM(PARIS)]
+	dx=180,208
+	expanded=t
+	parent=Physical Layer
+	x=1981,3789
+[Physical Layer].[PGM_DIM(PARIS)]
+	dx=163,208
+	expanded=t
+	parent=Physical Layer
+	x=2158,3725
+[Physical Layer].[WORKER_DIM(PARIS)]
+	dx=191,172
+	expanded=t
+	parent=Physical Layer
+	x=1663,3773
+[Physical Layer].[WORKER_COUNTY_SNAPSHOT_DIM(PARIS)]
+	dx=326,118
+	expanded=t
+	parent=Physical Layer
+	x=1459,4036
+[Physical Layer].[TASK_TYPE_DIM]
+	dx=162,118
+	expanded=t
+	parent=Physical Layer
+	x=568,4785
+[Physical Layer].[MCO_REIMBURSEMENT_FCT]
+	dx=240,208
+	expanded=t
+	parent=Physical Layer
+	x=20,42
+[Physical Layer].[MONTH_DIM_REIMBURSEMENT]
+	dx=251,208
+	expanded=t
+	parent=Physical Layer
+	x=110,132
+[Physical Layer]
+	c=d8a77d
+	dx=4525,5033
+	expanded=t
+	parent=FED_OPR
+	view=622,3734
+	x=10,57
+	zoom=1.000000
+[Business Layer].[ABAWDEXMPT Reason Dim]
+	dx=225,82
+	expanded=t
+	parent=Business Layer
+	x=4168,2068
+[Business Layer].[Action Dim]
+	dx=125,82
+	expanded=t
+	parent=Business Layer
+	x=4710,2667
+[Business Layer].[ADH Outcome Dim]
+	dx=170,82
+	expanded=t
+	parent=Business Layer
+	x=4808,2431
+[Business Layer].[Adjustment Reason Dim]
+	dx=207,82
+	expanded=t
+	parent=Business Layer
+	x=5607,2068
+[Business Layer].[Admin Disqualification Hearings Fact]
+	dx=279,208
+	expanded=t
+	parent=Business Layer
+	x=4168,188
+[Business Layer].[Age Group]
+	dx=138,64
+	expanded=t
+	parent=Business Layer
+	x=5055,2667
+[Business Layer].[App Mode]
+	dx=129,64
+	expanded=t
+	parent=Business Layer
+	x=5233,2667
+[Business Layer].[App Status]
+	dx=140,64
+	expanded=t
+	parent=Business Layer
+	x=4875,2667
+[Business Layer].[Approved Time Dim]
+	dx=176,100
+	expanded=t
+	parent=Business Layer
+	x=5139,2068
+[Business Layer].[Benefit Reason Dim]
+	dx=179,82
+	expanded=t
+	parent=Business Layer
+	x=5072,2322
+[Business Layer].[Benefit Type Dim]
+	dx=161,82
+	expanded=t
+	parent=Business Layer
+	x=4982,2540
+[Business Layer].[BI Benefit Type DIM]
+	dx=177,82
+	expanded=t
+	parent=Business Layer
+	x=5291,2322
+[Physical Layer].[CCAP_PAYMENT_FCT]
+	dx=205,208
+	expanded=t
+	parent=Physical Layer
+	x=2183,4379
+[Physical Layer].[CLAIM_ERROR_TYPE_DIM]
+	dx=219,82
+	expanded=t
+	parent=Physical Layer
+	x=3845,1178
+[Physical Layer].[CLAIM_FCT]
+	dx=194,208
+	expanded=t
+	parent=Physical Layer
+	x=3946,1625
+[Physical Layer].[CLAIM_OPENING_BAL]
+	dx=195,118
+	expanded=t
+	parent=Physical Layer
+	x=1461,691
+[Physical Layer].[CLAIM_PAYMENT_DIM]
+	dx=196,82
+	expanded=t
+	parent=Physical Layer
+	x=448,4737
+[Physical Layer].[CLAIM_PERSON_DIM]
+	dx=201,208
+	expanded=t
+	parent=Physical Layer
+	x=3842,1604
+[Physical Layer].[CLAIM_RECOVERY_FCT]
+	dx=207,208
+	expanded=t
+	parent=Physical Layer
+	x=756,2075
+[Physical Layer].[CLAIM_STATUS_DIM]
+	dx=185,82
+	expanded=t
+	parent=Physical Layer
+	x=3810,965
+[Physical Layer].[CLAIM_TRANSACTION_FCT]
+	dx=227,208
+	expanded=t
+	parent=Physical Layer
+	x=2638,1358
+[Physical Layer].[COUNTY]
+	dx=115,64
+	expanded=t
+	parent=Physical Layer
+	x=911,610
+[Physical Layer].[COVERAGE_DIM]
+	dx=160,82
+	expanded=t
+	parent=Physical Layer
+	x=671,2582
+[Physical Layer].[DELIVERABLE_FUEL_DIM]
+	dx=216,82
+	expanded=t
+	parent=Physical Layer
+	x=2602,3146
+[Physical Layer].[DENIAL_DETERMINATION_REASON]
+	dx=275,118
+	expanded=t
+	parent=Physical Layer
+	x=3464,1582
+[Physical Layer].[ELIG_CURR_SNAPSHOT_FCT]
+	dx=238,208
+	expanded=t
+	parent=Physical Layer
+	x=774,2381
+[Physical Layer].[ELIG_RECUR_HIST]
+	dx=210,208
+	expanded=t
+	parent=Physical Layer
+	x=907,2668
+[Physical Layer].[ELIG_STATUS_DIM]
+	dx=174,82
+	expanded=t
+	parent=Physical Layer
+	x=2226,716
+[Physical Layer].[ELIGIBILITY_RECUR_FCT]
+	dx=213,208
+	expanded=t
+	parent=Physical Layer
+	x=2072,1037
+[Physical Layer].[ERROR_REASON_DIM]
+	dx=194,82
+	expanded=t
+	parent=Physical Layer
+	x=3732,795
+[Physical Layer].[ETHNICITY_DIM]
+	dx=154,82
+	expanded=t
+	parent=Physical Layer
+	x=2378,393
+[Physical Layer].[FAIR_HEARINGS_FCT]
+	dx=191,208
+	expanded=t
+	parent=Physical Layer
+	x=1017,2810
+[Physical Layer].[FFM_TRANSFER_DIRECTION]
+	dx=234,64
+	expanded=t
+	parent=Physical Layer
+	x=3483,2374
+[Physical Layer].[FFM_TRANSFER_FCT]
+	dx=190,208
+	expanded=t
+	parent=Physical Layer
+	x=3360,2209
+[Physical Layer].[FFM_TRANSFER_TYPE]
+	dx=198,82
+	expanded=t
+	parent=Physical Layer
+	x=3422,2284
+[Physical Layer].[FRAUD_FCT]
+	dx=233,208
+	expanded=t
+	parent=Physical Layer
+	x=1223,3016
+[Physical Layer].[FS_MNTHLY_CASE_ESTIMATES_FCT]
+	dx=284,208
+	expanded=t
+	parent=Physical Layer
+	x=1620,4392
+[Physical Layer].[GEO_DIM]
+	dx=133,190
+	expanded=t
+	parent=Physical Layer
+	x=1848,1014
+[Physical Layer].[GR_DOC_DIM]
+	dx=142,100
+	expanded=t
+	parent=Physical Layer
+	x=2170,674
+[Physical Layer].[GR_NOTICES_USAGE_FCT]
+	dx=222,208
+	expanded=t
+	parent=Physical Layer
+	x=1941,768
+[Physical Layer].[HPE_FCT]
+	dx=136,208
+	expanded=t
+	parent=Physical Layer
+	x=3220,2019
+[Physical Layer].[HPE_PERSON_DIM]
+	dx=174,208
+	expanded=t
+	parent=Physical Layer
+	x=3375,1967
+[Physical Layer].[IEVS_ACTION_TAKEN_DIM]
+	dx=221,82
+	expanded=t
+	parent=Physical Layer
+	x=2258,3626
+[Physical Layer].[INELIG_RECUR_HIST]
+	dx=210,208
+	expanded=t
+	parent=Physical Layer
+	x=1544,3161
+[Physical Layer].[LIHEAP_FCT]
+	dx=224,208
+	expanded=t
+	parent=Physical Layer
+	x=2546,2948
+[Physical Layer].[LIHEAP_FUEL_DIM]
+	dx=174,82
+	expanded=t
+	parent=Physical Layer
+	x=2402,4371
+[Physical Layer].[LIHEAPSMILIMITS_DIM]
+	dx=197,208
+	expanded=t
+	parent=Physical Layer
+	x=231,4737
+[Physical Layer].[MCO_ELIG_COST_EFF_FCT]
+	dx=227,208
+	expanded=t
+	parent=Physical Layer
+	x=945,866
+[Physical Layer].[MCO_ELIGIBILITY_FCT]
+	dx=200,208
+	expanded=t
+	parent=Physical Layer
+	x=490,117
+[Physical Layer].[MCO_ELIGIBILITY_FCT_BASE]
+	dx=239,208
+	expanded=t
+	parent=Physical Layer
+	x=10,803
+[Physical Layer].[MCO_ELIGIBILITY_FCT_RP2]
+	dx=229,208
+	expanded=t
+	parent=Physical Layer
+	x=300,207
+[Physical Layer].[MCO_PAYMENT_DIFF_FCT]
+	dx=221,208
+	expanded=t
+	parent=Physical Layer
+	x=143,367
+[Physical Layer].[MCO_PERSON_ADDRESS_DIM]
+	dx=245,208
+	expanded=t
+	parent=Physical Layer
+	x=35,564
+[Physical Layer].[MCO_PERSON_DIM]
+	dx=185,208
+	expanded=t
+	parent=Physical Layer
+	x=716,761
+[Physical Layer].[MCO_RECOUPMENTS_FCT]
+	dx=222,208
+	expanded=t
+	parent=Physical Layer
+	x=73,1033
+[Physical Layer].[MEDICAID_DISABILITY_FCT]
+	dx=227,208
+	expanded=t
+	parent=Physical Layer
+	x=892,416
+[Physical Layer].[MEDICAID_MEDICARE_FCT]
+	dx=225,208
+	expanded=t
+	parent=Physical Layer
+	x=723,464
+[Physical Layer].[MONTH_DIM]
+	dx=153,208
+	expanded=t
+	parent=Physical Layer
+	x=1360,1144
+[Physical Layer].[MSP_DIM]
+	dx=119,208
+	expanded=t
+	parent=Physical Layer
+	x=2086,690
+[Physical Layer].[OMB RACE DIM]
+	dx=167,82
+	expanded=t
+	parent=Physical Layer
+	x=2282,273
+[Physical Layer].[PAYMENT_METHOD_DIM]
+	dx=210,82
+	expanded=t
+	parent=Physical Layer
+	x=3343,361
+[Physical Layer].[PERSON_DIM]
+	dx=141,208
+	expanded=t
+	parent=Physical Layer
+	x=1178,1272
+[Physical Layer].[PERSON_RACE_DIM]
+	dx=205,208
+	expanded=t
+	parent=Physical Layer
+	x=2080,503
+[Business Layer].[Case Fact]
+	dx=222,208
+	expanded=t
+	parent=Business Layer
+	x=4966,423
+[Business Layer].[Case fact(Review Snapshot)]
+	dx=225,208
+	expanded=t
+	parent=Business Layer
+	x=2099,42
+[Business Layer].[Case Status Dim]
+	dx=158,82
+	expanded=t
+	parent=Business Layer
+	x=5555,2540
+[Business Layer].[Case Status Dim Initial]
+	dx=193,82
+	expanded=t
+	parent=Business Layer
+	x=5107,2213
+[Business Layer].[CCAP Payment Fact]
+	dx=205,208
+	expanded=t
+	parent=Business Layer
+	x=5661,658
+[Business Layer].[Claim Error Type Dim]
+	dx=194,82
+	expanded=t
+	parent=Business Layer
+	x=4873,2213
+[Business Layer].[Claim Fact]
+	dx=194,208
+	expanded=t
+	parent=Business Layer
+	x=5114,1128
+[Business Layer].[Claim Opening Balance]
+	dx=198,118
+	expanded=t
+	parent=Business Layer
+	x=4934,1833
+[Business Layer].[Claim Payment Dim]
+	dx=176,82
+	expanded=t
+	parent=Business Layer
+	x=5508,2322
+[Business Layer].[Claim Person Dim]
+	dx=201,208
+	expanded=t
+	parent=Business Layer
+	x=5386,893
+[Business Layer].[Claim Recovery Fact]
+	dx=207,208
+	expanded=t
+	parent=Business Layer
+	x=5167,658
+[Business Layer].[Claim Status Dim]
+	dx=162,82
+	expanded=t
+	parent=Business Layer
+	x=4578,2540
+[Business Layer].[Claim Transaction fact]
+	dx=207,208
+	expanded=t
+	parent=Business Layer
+	x=5414,658
+[Business Layer].[County]
+	dx=115,64
+	expanded=t
+	parent=Business Layer
+	x=5563,2667
+[Business Layer].[Coverage Dim]
+	dx=143,82
+	expanded=t
+	parent=Business Layer
+	x=4168,2667
+[Business Layer].[Daily Operational Report]
+	dx=205,190
+	expanded=t
+	parent=Business Layer
+	x=2129,72
+[Business Layer].[Data Refresh Date]
+	dx=166,118
+	expanded=t
+	parent=Business Layer
+	x=2159,102
+[Business Layer].[Deliverable Fuel DIM]
+	dx=189,82
+	expanded=t
+	parent=Business Layer
+	x=5800,2213
+[Business Layer].[Denial Determination Reason]
+	dx=231,118
+	expanded=t
+	parent=Business Layer
+	x=5527,1598
+[Business Layer].[Denial Reason Concat]
+	dx=190,82
+	expanded=t
+	parent=Business Layer
+	x=5340,2213
+[Business Layer].[Denial Reason Fact]
+	dx=174,190
+	expanded=t
+	parent=Business Layer
+	x=5491,1363
+[Business Layer].[Disability Type Dim]
+	dx=174,82
+	expanded=t
+	parent=Business Layer
+	x=2189,132
+[Business Layer].[Disconnection Notice DIM]
+	dx=212,82
+	expanded=t
+	parent=Business Layer
+	x=5355,2068
+[Business Layer].[Dly Operational Agg]
+	dx=178,154
+	expanded=t
+	parent=Business Layer
+	x=2219,162
+[Business Layer].[Dly Operational Static]
+	dx=188,154
+	expanded=t
+	parent=Business Layer
+	x=2249,192
+[Business Layer].[Dual Program Dim]
+	dx=167,118
+	expanded=t
+	parent=Business Layer
+	x=5880,1833
+[Business Layer].[ED Elig LIHEAP Budget Fact]
+	dx=227,208
+	expanded=t
+	parent=Business Layer
+	x=5866,188
+[Business Layer].[ED FPL Limits Dim]
+	dx=170,154
+	expanded=t
+	parent=Business Layer
+	x=5798,1598
+[Business Layer].[Elig Budget Fact]
+	dx=186,208
+	expanded=t
+	parent=Business Layer
+	x=2089,101
+[Business Layer].[Elig Curr Snapshot Fct]
+	dx=219,208
+	expanded=t
+	parent=Business Layer
+	x=5228,423
+[Business Layer].[Elig Status Dim]
+	dx=153,82
+	expanded=t
+	parent=Business Layer
+	x=2119,131
+[Business Layer].[Eligibility Recur Fact]
+	dx=210,208
+	expanded=t
+	parent=Business Layer
+	x=4168,658
+[Business Layer].[Eligibility Recur History Fact]
+	dx=228,208
+	expanded=t
+	parent=Business Layer
+	x=5598,188
+[Business Layer].[Error Reason Dim]
+	dx=172,82
+	expanded=t
+	parent=Business Layer
+	x=4596,2431
+[Business Layer].[Ethnicity Dim]
+	dx=139,82
+	expanded=t
+	parent=Business Layer
+	x=4531,2667
+[Business Layer].[Fair Hearing Fact]
+	dx=191,208
+	expanded=t
+	parent=Business Layer
+	x=5582,1128
+[Business Layer].[FFM Transfer Direction]
+	dx=195,64
+	expanded=t
+	parent=Business Layer
+	x=5992,2540
+[Business Layer].[FFM Transfer Fact]
+	dx=186,208
+	expanded=t
+	parent=Business Layer
+	x=4396,1363
+[Business Layer].[FFM Transfer Type]
+	dx=170,82
+	expanded=t
+	parent=Business Layer
+	x=5018,2431
+[Business Layer].[Fraud Fact]
+	dx=233,208
+	expanded=t
+	parent=Business Layer
+	x=5055,188
+[Business Layer].[FS Monthly Case Estimates Fact]
+	dx=250,208
+	expanded=t
+	parent=Business Layer
+	x=4487,188
+[Business Layer].[Geo Dim]
+	dx=133,190
+	expanded=t
+	parent=Business Layer
+	x=4168,1833
+[Business Layer].[GR Doc Dim]
+	dx=132,100
+	expanded=t
+	parent=Business Layer
+	x=5183,2540
+[Business Layer].[GR Notices Usage Fact]
+	dx=196,208
+	expanded=t
+	parent=Business Layer
+	x=4407,1128
+[Business Layer].[HPE Fact]
+	dx=136,208
+	expanded=t
+	parent=Business Layer
+	x=4940,1598
+[Business Layer].[HPE Person Dim]
+	dx=157,208
+	expanded=t
+	parent=Business Layer
+	x=5705,1363
+[Business Layer].[IEVS Action Taken DIM]
+	dx=195,82
+	expanded=t
+	parent=Business Layer
+	x=4168,2213
+[Business Layer].[Ineligibility Recur Fact]
+	dx=210,208
+	expanded=t
+	parent=Business Layer
+	x=4418,658
+[Business Layer].[Ineligibility Recur History Fact]
+	dx=238,208
+	expanded=t
+	parent=Business Layer
+	x=4777,188
+[Business Layer].[Interface Disposition Fct]
+	dx=204,208
+	expanded=t
+	parent=Business Layer
+	x=4413,893
+[Business Layer].[Investigation Status Dim]
+	dx=215,82
+	expanded=t
+	parent=Business Layer
+	x=4629,2068
+[Business Layer].[Investigation Type Dim]
+	dx=200,82
+	expanded=t
+	parent=Business Layer
+	x=5854,2068
+[Business Layer].[Issuance Fact]
+	dx=227,208
+	expanded=t
+	parent=Business Layer
+	x=4168,423
+[Business Layer].[Issuance Method Dim]
+	dx=190,82
+	expanded=t
+	parent=Business Layer
+	x=5570,2213
+[Business Layer].[Issuance Status Dim]
+	dx=185,82
+	expanded=t
+	parent=Business Layer
+	x=4622,2322
+[Business Layer].[License Category Dim]
+	dx=195,82
+	expanded=t
+	parent=Business Layer
+	x=4403,2213
+[Business Layer].[License Type Dim]
+	dx=165,82
+	expanded=t
+	parent=Business Layer
+	x=4168,2540
+[Business Layer].[LIHEAP Fact]
+	dx=224,208
+	expanded=t
+	parent=Business Layer
+	x=4702,423
+[Business Layer].[LIHEAP Fuel DIM]
+	dx=160,82
+	expanded=t
+	parent=Business Layer
+	x=5355,2540
+[Business Layer].[LIHEAP SMLIMITS DIM]
+	dx=194,208
+	expanded=t
+	parent=Business Layer
+	x=5348,1128
+[Business Layer].[MCO Eligibility Cost Eff Fct]
+	dx=220,208
+	expanded=t
+	parent=Business Layer
+	x=2279,222
+[Business Layer].[MCO Eligibility Fact]
+	dx=200,208
+	expanded=t
+	parent=Business Layer
+	x=5627,893
+[Business Layer].[MCO Eligibility Fact Base]
+	dx=209,208
+	expanded=t
+	parent=Business Layer
+	x=4918,658
+[Business Layer].[MCO Eligibility Fct RP2]
+	dx=203,208
+	expanded=t
+	parent=Business Layer
+	x=2309,252
+[Business Layer].[MCO Payment Diff Fact]
+	dx=203,208
+	expanded=t
+	parent=Business Layer
+	x=4900,893
+[Business Layer].[MCO Person Address Dim]
+	dx=214,208
+	expanded=t
+	parent=Business Layer
+	x=5746,423
+[Business Layer].[MCO Person Dim]
+	dx=185,208
+	expanded=t
+	parent=Business Layer
+	x=4622,1363
+[Business Layer].[MCO_RECOUPMENTS_FCT]
+	dx=222,208
+	expanded=t
+	parent=Business Layer
+	x=2339,282
+[Business Layer].[MCO Reimbursement Fact]
+	dx=214,208
+	expanded=t
+	parent=Business Layer
+	x=10,13
+[Business Layer].[Month dim reimbursement]
+	dx=215,208
+	expanded=t
+	parent=Business Layer
+	x=40,43
+[Business Layer]
+	c=89c6fd
+	dx=6197,2850
+	expanded=t
+	parent=FED_OPR
+	x=2129,57
+[Presentation Layer].[ABAWDEXMPT Reason Dim]
+	dx=225,82
+	expanded=t
+	parent=Presentation Layer
+	x=10,35781
+[Presentation Layer].[Action Dim]
+	dx=125,82
+	expanded=t
+	parent=Presentation Layer
+	x=552,36380
+[Presentation Layer].[ADH Outcome Dim]
+	dx=170,82
+	expanded=t
+	parent=Presentation Layer
+	x=650,36144
+[Presentation Layer].[Adjustment Reason Dim]
+	dx=207,82
+	expanded=t
+	parent=Presentation Layer
+	x=1449,35781
+[Presentation Layer].[Admin Disqualification Hearings Fact]
+	dx=279,208
+	expanded=t
+	parent=Presentation Layer
+	x=10,33901
+[Presentation Layer].[Age Group]
+	dx=138,64
+	expanded=t
+	parent=Presentation Layer
+	x=897,36380
+[Presentation Layer].[App Mode]
+	dx=129,64
+	expanded=t
+	parent=Presentation Layer
+	x=1075,36380
+[Presentation Layer].[App Status]
+	dx=140,64
+	expanded=t
+	parent=Presentation Layer
+	x=717,36380
+[Presentation Layer].[Approved Time Dim]
+	dx=176,100
+	expanded=t
+	parent=Presentation Layer
+	x=981,35781
+[Presentation Layer].[Benefit Reason Dim]
+	dx=179,82
+	expanded=t
+	parent=Presentation Layer
+	x=914,36035
+[Presentation Layer].[Benefit Type Dim]
+	dx=161,82
+	expanded=t
+	parent=Presentation Layer
+	x=824,36253
+[Presentation Layer].[BI Benefit Type DIM]
+	dx=177,82
+	expanded=t
+	parent=Presentation Layer
+	x=1133,36035
+[Presentation Layer].[Case Fact]
+	dx=222,208
+	expanded=t
+	parent=Presentation Layer
+	x=808,34136
+[Presentation Layer].[Case fact(Review Snapshot)]
+	dx=225,208
+	expanded=t
+	parent=Presentation Layer
+	x=2679,11449
+[Presentation Layer].[Case Status Dim]
+	dx=158,82
+	expanded=t
+	parent=Presentation Layer
+	x=1397,36253
+[Presentation Layer].[Case Status Dim Initial]
+	dx=193,82
+	expanded=t
+	parent=Presentation Layer
+	x=949,35926
+[Presentation Layer].[CCAP Payment Fact]
+	dx=205,208
+	expanded=t
+	parent=Presentation Layer
+	x=1503,34371
+[Presentation Layer].[Claim Error Type Dim]
+	dx=194,82
+	expanded=t
+	parent=Presentation Layer
+	x=715,35926
+[Presentation Layer].[Claim Fact]
+	dx=194,208
+	expanded=t
+	parent=Presentation Layer
+	x=1196,34841
+[Presentation Layer].[Claim Opening Balance]
+	dx=198,118
+	expanded=t
+	parent=Presentation Layer
+	x=986,35546
+[Presentation Layer].[Claim Payment Dim]
+	dx=176,82
+	expanded=t
+	parent=Presentation Layer
+	x=1350,36035
+[Presentation Layer].[Claim Person Dim]
+	dx=201,208
+	expanded=t
+	parent=Presentation Layer
+	x=1469,34606
+[Presentation Layer].[Claim Recovery Fact]
+	dx=207,208
+	expanded=t
+	parent=Presentation Layer
+	x=1009,34371
+[Presentation Layer].[Claim Status Dim]
+	dx=162,82
+	expanded=t
+	parent=Presentation Layer
+	x=420,36253
+[Presentation Layer].[Claim Transaction fact]
+	dx=207,208
+	expanded=t
+	parent=Presentation Layer
+	x=1256,34371
+[Presentation Layer].[County]
+	dx=115,64
+	expanded=t
+	parent=Presentation Layer
+	x=1405,36380
+[Presentation Layer].[Coverage Dim]
+	dx=143,82
+	expanded=t
+	parent=Presentation Layer
+	x=10,36380
+[Presentation Layer].[Daily Operational Report]
+	dx=205,190
+	expanded=t
+	parent=Presentation Layer
+	x=2709,11479
+[Presentation Layer].[Data Refresh Date]
+	dx=166,118
+	expanded=t
+	parent=Presentation Layer
+	x=2739,11509
+[Presentation Layer].[Deliverable Fuel DIM]
+	dx=189,82
+	expanded=t
+	parent=Presentation Layer
+	x=1642,35926
+[Presentation Layer].[Denial Determination Reason]
+	dx=231,118
+	expanded=t
+	parent=Presentation Layer
+	x=1580,35311
+[Presentation Layer].[Denial Reason Concat]
+	dx=190,82
+	expanded=t
+	parent=Presentation Layer
+	x=1182,35926
+[Presentation Layer].[Denial Reason Fact]
+	dx=174,190
+	expanded=t
+	parent=Presentation Layer
+	x=1564,35076
+[Presentation Layer].[Disability Type Dim]
+	dx=174,82
+	expanded=t
+	parent=Presentation Layer
+	x=2769,11539
+[Presentation Layer].[Disconnection Notice DIM]
+	dx=212,82
+	expanded=t
+	parent=Presentation Layer
+	x=1197,35781
+[Presentation Layer].[Dly Operational Agg]
+	dx=178,154
+	expanded=t
+	parent=Presentation Layer
+	x=2799,11569
+[Presentation Layer].[Dly Operational Static]
+	dx=188,154
+	expanded=t
+	parent=Presentation Layer
+	x=2829,11599
+[Presentation Layer].[Dual Program Dim]
+	dx=167,118
+	expanded=t
+	parent=Presentation Layer
+	x=2859,11629
+[Presentation Layer].[ED Elig LIHEAP Budget Fact]
+	dx=227,208
+	expanded=t
+	parent=Presentation Layer
+	x=1708,33901
+[Presentation Layer].[ED FPL Limits Dim]
+	dx=170,154
+	expanded=t
+	parent=Presentation Layer
+	x=10,35546
+[Presentation Layer].[Elig Budget Fact]
+	dx=186,208
+	expanded=t
+	parent=Presentation Layer
+	x=140,22436
+[Presentation Layer].[Elig Curr Snapshot Fct]
+	dx=219,208
+	expanded=t
+	parent=Presentation Layer
+	x=1070,34136
+[Presentation Layer].[Elig Status Dim]
+	dx=153,82
+	expanded=t
+	parent=Presentation Layer
+	x=170,22466
+[Presentation Layer].[Eligibility Recur Fact]
+	dx=210,208
+	expanded=t
+	parent=Presentation Layer
+	x=10,34371
+[Presentation Layer].[Eligibility Recur History Fact]
+	dx=228,208
+	expanded=t
+	parent=Presentation Layer
+	x=1440,33901
+[Presentation Layer].[Error Reason Dim]
+	dx=172,82
+	expanded=t
+	parent=Presentation Layer
+	x=438,36144
+[Presentation Layer].[Ethnicity Dim]
+	dx=139,82
+	expanded=t
+	parent=Presentation Layer
+	x=373,36380
+[Presentation Layer].[Fair Hearing Fact]
+	dx=191,208
+	expanded=t
+	parent=Presentation Layer
+	x=1664,34841
+[Presentation Layer].[FFM Transfer Direction]
+	dx=195,64
+	expanded=t
+	parent=Presentation Layer
+	x=1834,36253
+[Presentation Layer].[FFM Transfer Fact]
+	dx=186,208
+	expanded=t
+	parent=Presentation Layer
+	x=469,35076
+[Presentation Layer].[FFM Transfer Type]
+	dx=170,82
+	expanded=t
+	parent=Presentation Layer
+	x=860,36144
+[Presentation Layer].[Fraud Fact]
+	dx=233,208
+	expanded=t
+	parent=Presentation Layer
+	x=897,33901
+[Presentation Layer].[FS Monthly Case Estimates Fact]
+	dx=250,208
+	expanded=t
+	parent=Presentation Layer
+	x=329,33901
+[Presentation Layer].[Geo Dim]
+	dx=133,190
+	expanded=t
+	parent=Presentation Layer
+	x=220,35546
+[Presentation Layer].[GR Doc Dim]
+	dx=132,100
+	expanded=t
+	parent=Presentation Layer
+	x=1025,36253
+[Presentation Layer].[GR Notices Usage Fact]
+	dx=196,208
+	expanded=t
+	parent=Presentation Layer
+	x=489,34841
+[Presentation Layer].[HPE Fact]
+	dx=136,208
+	expanded=t
+	parent=Presentation Layer
+	x=993,35311
+[Presentation Layer].[HPE Person Dim]
+	dx=157,208
+	expanded=t
+	parent=Presentation Layer
+	x=1778,35076
+[Presentation Layer].[IEVS Action Taken DIM]
+	dx=195,82
+	expanded=t
+	parent=Presentation Layer
+	x=10,35926
+[Presentation Layer].[Ineligibility Recur Fact]
+	dx=210,208
+	expanded=t
+	parent=Presentation Layer
+	x=260,34371
+[Presentation Layer].[Ineligibility Recur History Fact]
+	dx=238,208
+	expanded=t
+	parent=Presentation Layer
+	x=619,33901
+[Presentation Layer].[Interface Disposition Fct]
+	dx=204,208
+	expanded=t
+	parent=Presentation Layer
+	x=255,34606
+[Presentation Layer].[Investigation Status Dim]
+	dx=215,82
+	expanded=t
+	parent=Presentation Layer
+	x=471,35781
+[Presentation Layer].[Investigation Type Dim]
+	dx=200,82
+	expanded=t
+	parent=Presentation Layer
+	x=1696,35781
+[Presentation Layer].[Issuance Fact]
+	dx=227,208
+	expanded=t
+	parent=Presentation Layer
+	x=10,34136
+[Presentation Layer].[Issuance Method Dim]
+	dx=190,82
+	expanded=t
+	parent=Presentation Layer
+	x=1412,35926
+[Presentation Layer].[Issuance Status Dim]
+	dx=185,82
+	expanded=t
+	parent=Presentation Layer
+	x=464,36035
+[Presentation Layer].[License Category Dim]
+	dx=195,82
+	expanded=t
+	parent=Presentation Layer
+	x=245,35926
+[Presentation Layer].[License Type Dim]
+	dx=165,82
+	expanded=t
+	parent=Presentation Layer
+	x=10,36253
+[Presentation Layer].[LIHEAP Fact]
+	dx=224,208
+	expanded=t
+	parent=Presentation Layer
+	x=544,34136
+[Presentation Layer].[LIHEAP Fuel DIM]
+	dx=160,82
+	expanded=t
+	parent=Presentation Layer
+	x=1197,36253
+[Presentation Layer].[LIHEAP SMLIMITS DIM]
+	dx=194,208
+	expanded=t
+	parent=Presentation Layer
+	x=1430,34841
+[Presentation Layer].[MCO Eligibility Cost Eff Fct]
+	dx=220,208
+	expanded=t
+	parent=Presentation Layer
+	x=2889,11659
+[Presentation Layer].[MCO Eligibility Fact]
+	dx=200,208
+	expanded=t
+	parent=Presentation Layer
+	x=1710,34606
+[Presentation Layer].[MCO Eligibility Fact Base]
+	dx=209,208
+	expanded=t
+	parent=Presentation Layer
+	x=760,34371
+[Presentation Layer].[MCO Eligibility Fct RP2]
+	dx=203,208
+	expanded=t
+	parent=Presentation Layer
+	x=2919,11689
+[Presentation Layer].[MCO Payment Diff Fact]
+	dx=203,208
+	expanded=t
+	parent=Presentation Layer
+	x=742,34606
+[Presentation Layer].[MCO Person Address Dim]
+	dx=214,208
+	expanded=t
+	parent=Presentation Layer
+	x=1588,34136
+[Presentation Layer].[MCO Person Dim]
+	dx=185,208
+	expanded=t
+	parent=Presentation Layer
+	x=695,35076
+[Presentation Layer].[MCO_RECOUPMENTS_FCT]
+	dx=222,208
+	expanded=t
+	parent=Presentation Layer
+	x=2949,11719
+[Presentation Layer].[Medicaid Disability Fact]
+	dx=200,208
+	expanded=t
+	parent=Presentation Layer
+	x=10,34841
+[Presentation Layer].[Medicaid Medicare Fact]
+	dx=199,208
+	expanded=t
+	parent=Presentation Layer
+	x=250,34841
+[Presentation Layer].[Month Dim]
+	dx=191,208
+	expanded=t
+	parent=Presentation Layer
+	x=10,35076
+[Presentation Layer].[MSP_DIM]
+	dx=119,208
+	expanded=t
+	parent=Presentation Layer
+	x=393,35546
+[Presentation Layer].[OMB Race DIM]
+	dx=167,82
+	expanded=t
+	parent=Presentation Layer
+	x=1280,36144
+[Presentation Layer].[Payment Method Dim]
+	dx=187,82
+	expanded=t
+	parent=Presentation Layer
+	x=10,36035
+[Presentation Layer].[Person Dim]
+	dx=140,208
+	expanded=t
+	parent=Presentation Layer
+	x=813,35311
+[Presentation Layer].[Person Race Dim]
+	dx=205,208
+	expanded=t
+	parent=Presentation Layer
+	x=1748,34371
+[Presentation Layer].[PGM Dim]
+	dx=119,208
+	expanded=t
+	parent=Presentation Layer
+	x=552,35546
+[Presentation Layer].[PGM Precedence Dim]
+	dx=187,82
+	expanded=t
+	parent=Presentation Layer
+	x=2979,11749
+[Presentation Layer].[PI Person Dim]
+	dx=143,208
+	expanded=t
+	parent=Presentation Layer
+	x=420,35311
+[Presentation Layer].[Primary Heat DIM]
+	dx=165,82
+	expanded=t
+	parent=Presentation Layer
+	x=215,36253
+[Presentation Layer].[Prosecution Outcome Dim]
+	dx=215,82
+	expanded=t
+	parent=Presentation Layer
+	x=726,35781
+[Presentation Layer].[Provider Child Assoc Dim]
+	dx=230,208
+	expanded=t
+	parent=Presentation Layer
+	x=1170,33901
+[Presentation Layer].[Provider Dim]
+	dx=168,208
+	expanded=t
+	parent=Presentation Layer
+	x=1356,35076
+[Presentation Layer].[QA Error Sub Type Dim]
+	dx=205,100
+	expanded=t
+	parent=Presentation Layer
+	x=1687,35546
+[Presentation Layer].[QA Error Type Dim]
+	dx=176,82
+	expanded=t
+	parent=Presentation Layer
+	x=1566,36035
+[Presentation Layer].[QA Review Fact]
+	dx=205,208
+	expanded=t
+	parent=Presentation Layer
+	x=10,34606
+[Presentation Layer].[QA Sample Type Dim]
+	dx=185,118
+	expanded=t
+	parent=Presentation Layer
+	x=1462,35546
+[Presentation Layer].[Race]
+	dx=98,64
+	expanded=t
+	parent=Presentation Layer
+	x=10,36489
+[Presentation Layer].[Race Category]
+	dx=167,82
+	expanded=t
+	parent=Presentation Layer
+	x=1487,36144
+[Presentation Layer].[Recovery Method Dim]
+	dx=195,82
+	expanded=t
+	parent=Presentation Layer
+	x=480,35926
+[Presentation Layer].[Review Snapshot Fct]
+	dx=210,208
+	expanded=t
+	parent=Presentation Layer
+	x=3009,11779
+[Presentation Layer].[RP Bucket]
+	dx=121,64
+	expanded=t
+	parent=Presentation Layer
+	x=1244,36380
+[Presentation Layer].[RP Data Refresh Hist]
+	dx=183,154
+	expanded=t
+	parent=Presentation Layer
+	x=1169,35311
+[Presentation Layer].[RP Parameters]
+	dx=148,190
+	expanded=t
+	parent=Presentation Layer
+	x=1392,35311
+[Presentation Layer].[RP Refresh Dt Hist]
+	dx=170,172
+	expanded=t
+	parent=Presentation Layer
+	x=603,35311
+[Presentation Layer].[RP Static]
+	dx=114,64
+	expanded=t
+	parent=Presentation Layer
+	x=1560,36380
+[Presentation Layer].[RP_CATALOG]
+	dx=159,190
+	expanded=t
+	parent=Presentation Layer
+	x=221,35311
+[Presentation Layer].[Secondary Heat DIM]
+	dx=185,82
+	expanded=t
+	parent=Presentation Layer
+	x=689,36035
+[Presentation Layer].[SNAP ET Services Fact]
+	dx=196,208
+	expanded=t
+	parent=Presentation Layer
+	x=725,34841
+[Presentation Layer].[SNAP EXEMP Dim]
+	dx=176,82
+	expanded=t
+	parent=Presentation Layer
+	x=1782,36035
+[Presentation Layer].[SP_Update_RP_Catalog]
+	dx=201,208
+	expanded=t
+	parent=Presentation Layer
+	x=1228,34606
+[Presentation Layer].[SS Category DIM]
+	dx=173,82
+	expanded=t
+	parent=Presentation Layer
+	x=225,36144
+[Presentation Layer].[SS TYPE DIM]
+	dx=140,82
+	expanded=t
+	parent=Presentation Layer
+	x=193,36380
+[Presentation Layer].[Target Group DIM]
+	dx=170,82
+	expanded=t
+	parent=Presentation Layer
+	x=1070,36144
+[Presentation Layer].[Transfer Dim]
+	dx=167,82
+	expanded=t
+	parent=Presentation Layer
+	x=1694,36144
+[Presentation Layer].[Type of Assistance Dim]
+	dx=199,64
+	expanded=t
+	parent=Presentation Layer
+	x=1595,36253
+[Presentation Layer].[Unit of Measure DIM]
+	dx=187,82
+	expanded=t
+	parent=Presentation Layer
+	x=237,36035
+[Presentation Layer].[Vendor DIM]
+	dx=188,208
+	expanded=t
+	parent=Presentation Layer
+	x=241,35076
+[Presentation Layer].[WC Activity Dim]
+	dx=175,82
+	expanded=t
+	parent=Presentation Layer
+	x=10,36144
+[Presentation Layer].[WC Referral Dim]
+	dx=162,82
+	expanded=t
+	parent=Presentation Layer
+	x=622,36253
+[Presentation Layer].[WC Work Fact]
+	dx=227,208
+	expanded=t
+	parent=Presentation Layer
+	x=277,34136
+[Presentation Layer].[Weatherization Fact]
+	dx=179,208
+	expanded=t
+	parent=Presentation Layer
+	x=920,35076
+[Presentation Layer].[Worker County Dim]
+	dx=198,118
+	expanded=t
+	parent=Presentation Layer
+	x=1224,35546
+[Presentation Layer].[Worker County Snapshot Dim]
+	dx=235,100
+	expanded=t
+	parent=Presentation Layer
+	x=711,35546
+[Presentation Layer].[Worker Dim]
+	dx=171,190
+	expanded=t
+	parent=Presentation Layer
+	x=10,35311
+[Presentation Layer].[Geography Dim(PARIS)]
+	dx=198,190
+	expanded=t
+	parent=Presentation Layer
+	x=3039,11809
+[Presentation Layer].[Person Dim(PARIS)]
+	dx=174,208
+	expanded=t
+	parent=Presentation Layer
+	x=3069,11839
+[Presentation Layer].[Program Dim(PARIS)]
+	dx=183,208
+	expanded=t
+	parent=Presentation Layer
+	x=3099,11869
+[Presentation Layer].[Worker Dim(PARIS)]
+	dx=175,190
+	expanded=t
+	parent=Presentation Layer
+	x=3129,11899
+[Presentation Layer].[Worker County Snapshot Dim(PARIS)]
+	dx=281,118
+	expanded=t
+	parent=Presentation Layer
+	x=3159,11929
+[Presentation Layer].[Task Type Dim]
+	dx=147,118
+	expanded=t
+	parent=Presentation Layer
+	x=3189,11959
+[Presentation Layer].[Month Dim(PARIS)]
+	dx=191,208
+	expanded=t
+	parent=Presentation Layer
+	x=3219,11989
+[Presentation Layer].[MCO Reimbursement Fact]
+	dx=214,208
+	expanded=t
+	parent=Presentation Layer
+	x=140,42
+[Presentation Layer].[Month dim reimbursement]
+	dx=215,208
+	expanded=t
+	parent=Presentation Layer
+	x=170,72
+[Presentation Layer]
+	c=99b2c7
+	dx=3450,36563
+	expanded=t
+	parent=FED_OPR
+	x=10,11525
+[SPACES Federal Reports].[FED_OPR]
+	view=0,0
+	zoom=1.000000
+[]
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial Narrow
+	lod=32
+	tc=323232
+	viewStyle=2
+[Business Layer].[WC Work Fact]
+	dx=227,208
+	expanded=t
+	parent=Business Layer
+	x=4435,423
+[Business Layer].[Weatherization Fact]
+	dx=179,208
+	expanded=t
+	parent=Business Layer
+	x=4847,1363
+[Business Layer].[Worker County Dim]
+	dx=198,118
+	expanded=t
+	parent=Business Layer
+	x=5172,1833
+[Business Layer].[Worker County Snapshot Dim]
+	dx=235,100
+	expanded=t
+	parent=Business Layer
+	x=4659,1833
+[Business Layer].[Worker Dim]
+	dx=171,190
+	expanded=t
+	parent=Business Layer
+	x=5902,1363
+[Business Layer].[Month Dim(PARIS)]
+	dx=191,208
+	expanded=t
+	parent=Business Layer
+	x=2429,372
+[Business Layer].[Geography Dim(PARIS)]
+	dx=198,190
+	expanded=t
+	parent=Business Layer
+	x=2459,402
+[Business Layer].[Person Dim(PARIS)]
+	dx=174,208
+	expanded=t
+	parent=Business Layer
+	x=2489,432
+[Business Layer].[Program Dim(PARIS)]
+	dx=183,208
+	expanded=t
+	parent=Business Layer
+	x=2519,462
+[Business Layer].[Worker Dim(PARIS)]
+	dx=175,190
+	expanded=t
+	parent=Business Layer
+	x=2549,492
+[Business Layer].[Worker County Snapshot Dim(PARIS)]
+	dx=281,118
+	expanded=t
+	parent=Business Layer
+	x=2579,522
+[Business Layer].[Task Type Dim]
+	dx=147,118
+	expanded=t
+	parent=Business Layer
+	x=2609,552
+[Business Layer].[QA Review Fact]
+	dx=205,208
+	expanded=t
+	parent=Business Layer
+	x=4168,893
+[Business Layer].[QA Sample Type Dim]
+	dx=185,118
+	expanded=t
+	parent=Business Layer
+	x=5410,1833
+[Business Layer].[Race]
+	dx=98,64
+	expanded=t
+	parent=Business Layer
+	x=4168,2776
+[Business Layer].[Race Category]
+	dx=167,82
+	expanded=t
+	parent=Business Layer
+	x=5645,2431
+[Business Layer].[Recovery Method Dim]
+	dx=195,82
+	expanded=t
+	parent=Business Layer
+	x=4638,2213
+[Business Layer].[Review Snapshot Fct]
+	dx=210,208
+	expanded=t
+	parent=Business Layer
+	x=2399,342
+[Business Layer].[RP Bucket]
+	dx=121,64
+	expanded=t
+	parent=Business Layer
+	x=5402,2667
+[Business Layer].[RP Data Refresh Hist]
+	dx=183,154
+	expanded=t
+	parent=Business Layer
+	x=5116,1598
+[Business Layer].[RP Parameters]
+	dx=148,190
+	expanded=t
+	parent=Business Layer
+	x=5339,1598
+[Business Layer].[RP Refresh Dt Hist]
+	dx=170,172
+	expanded=t
+	parent=Business Layer
+	x=4550,1598
+[Business Layer].[RP Static]
+	dx=114,64
+	expanded=t
+	parent=Business Layer
+	x=5718,2667
+[Business Layer].[RP_CATALOG]
+	dx=159,190
+	expanded=t
+	parent=Business Layer
+	x=4168,1598
+[Business Layer].[Secondary Heat DIM]
+	dx=185,82
+	expanded=t
+	parent=Business Layer
+	x=4847,2322
+[Business Layer].[SNAP ET Services Fact]
+	dx=196,208
+	expanded=t
+	parent=Business Layer
+	x=4643,1128
+[Business Layer].[SNAP EXEMP Dim]
+	dx=176,82
+	expanded=t
+	parent=Business Layer
+	x=5940,2322
+[Business Layer].[SS Category DIM]
+	dx=173,82
+	expanded=t
+	parent=Business Layer
+	x=4383,2431
+[Business Layer].[SS TYPE DIM]
+	dx=140,82
+	expanded=t
+	parent=Business Layer
+	x=4351,2667
+[Business Layer].[Target Group DIM]
+	dx=170,82
+	expanded=t
+	parent=Business Layer
+	x=5228,2431
+[Business Layer].[Transfer Dim]
+	dx=167,82
+	expanded=t
+	parent=Business Layer
+	x=5852,2431
+[Business Layer].[Type of Assistance Dim]
+	dx=199,64
+	expanded=t
+	parent=Business Layer
+	x=5753,2540
+[Business Layer].[Unit of Measure DIM]
+	dx=187,82
+	expanded=t
+	parent=Business Layer
+	x=4395,2322
+[Business Layer].[Vendor DIM]
+	dx=188,208
+	expanded=t
+	parent=Business Layer
+	x=4168,1363
+[Business Layer].[WC Activity Dim]
+	dx=175,82
+	expanded=t
+	parent=Business Layer
+	x=4168,2431
+[Business Layer].[WC Referral Dim]
+	dx=162,82
+	expanded=t
+	parent=Business Layer
+	x=4780,2540
+[Business Layer].[Medicaid Disability Fact]
+	dx=200,208
+	expanded=t
+	parent=Business Layer
+	x=5867,893
+[Business Layer].[Medicaid Medicare Fact]
+	dx=199,208
+	expanded=t
+	parent=Business Layer
+	x=4168,1128
+[Business Layer].[Month Dim]
+	dx=191,208
+	expanded=t
+	parent=Business Layer
+	x=5813,1128
+[Business Layer].[MSP_DIM]
+	dx=119,208
+	expanded=t
+	parent=Business Layer
+	x=4341,1833
+[Business Layer].[OMB Race DIM]
+	dx=167,82
+	expanded=t
+	parent=Business Layer
+	x=5438,2431
+[Business Layer].[Payment Method Dim]
+	dx=187,82
+	expanded=t
+	parent=Business Layer
+	x=4168,2322
+[Business Layer].[Person Dim]
+	dx=140,208
+	expanded=t
+	parent=Business Layer
+	x=4760,1598
+[Business Layer].[Person Race Dim]
+	dx=205,208
+	expanded=t
+	parent=Business Layer
+	x=5906,658
+[Business Layer].[PGM Dim]
+	dx=119,208
+	expanded=t
+	parent=Business Layer
+	x=4500,1833
+[Business Layer].[PGM Precedence Dim]
+	dx=187,82
+	expanded=t
+	parent=Business Layer
+	x=2369,312
+[Business Layer].[PI Person Dim]
+	dx=143,208
+	expanded=t
+	parent=Business Layer
+	x=4367,1598
+[Business Layer].[Primary Heat DIM]
+	dx=165,82
+	expanded=t
+	parent=Business Layer
+	x=4373,2540
+[Business Layer].[Prosecution Outcome Dim]
+	dx=215,82
+	expanded=t
+	parent=Business Layer
+	x=4884,2068
+[Business Layer].[Provider Child Assoc Dim]
+	dx=230,208
+	expanded=t
+	parent=Business Layer
+	x=5328,188
+[Business Layer].[Provider Dim]
+	dx=168,208
+	expanded=t
+	parent=Business Layer
+	x=5283,1363
+[Business Layer].[QA Error Sub Type Dim]
+	dx=205,100
+	expanded=t
+	parent=Business Layer
+	x=5635,1833
+[Business Layer].[QA Error Type Dim]
+	dx=176,82
+	expanded=t
+	parent=Business Layer
+	x=5724,2322
+]]></property></object></namespace></bmtcustomdata>
